@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![task_1.png](https://github.com/victorialugi/Zabbix_2/blob/main/task_1.png)
+![task_1.png]()
 
 
 ---
